@@ -10,6 +10,8 @@
 	}
 }
 
+@import url('https://fonts.googleapis.com/css?family=Sail&text=binblogwriterecordsoflife');
+
 .sidebar-container {
 	color: #bfbfbf;
 	font-size: 14px
@@ -537,7 +539,7 @@ pre code {
 
 .intro-header .site-heading,.intro-header .post-heading,.intro-header .page-heading {
 	padding: 85px 0 55px;
-	color: #63b6b1
+	color: #fff
 }
 
 @media only screen and (min-width:768px) {

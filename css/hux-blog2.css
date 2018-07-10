@@ -537,7 +537,7 @@ pre code {
 
 .intro-header .site-heading,.intro-header .post-heading,.intro-header .page-heading {
 	padding: 85px 0 55px;
-	color: #63b6b1
+	color: #fff
 }
 
 @media only screen and (min-width:768px) {
@@ -561,8 +561,6 @@ pre code {
 }
 
 .intro-header .site-heading h1,.intro-header .page-heading h1 {
-	font-family: Sail, serif;
-	text-align: center;
 	margin-top: 0;
 	font-size: 50px
 }

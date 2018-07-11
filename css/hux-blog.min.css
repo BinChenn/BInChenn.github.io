@@ -563,7 +563,7 @@ pre code {
 .intro-header .site-heading h1,.intro-header .page-heading h1 {
 	font-family: "Sail", serif;
 	margin-top: 0;
-	font-size: 36px
+	font-size: 50px
 }
 
 .intro-header .site-heading ,.intro-header .page-heading {
@@ -579,7 +579,7 @@ pre code {
 .subheading {
 	font-family: "Playball", serif;
 	line-height: 1.7;
-	font-size: 36px;
+	font-size: 20px;
 	line-height: 1.1;
 	display: block;
 	font-weight: 300;
